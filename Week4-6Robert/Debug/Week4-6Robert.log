@@ -1,0 +1,4 @@
+﻿  SystemOLE.cpp
+C:\Users\Дмитрий Лаптев\source\repos\Week4-6Robert\Week4-6Robert\SystemOLE.cpp(19,19): warning C4101: step2: неиспользованная локальная переменная
+C:\Users\Дмитрий Лаптев\source\repos\Week4-6Robert\Week4-6Robert\SystemOLE.cpp(19,12): warning C4101: step1: неиспользованная локальная переменная
+  Week4-6Robert.vcxproj -> C:\Users\Дмитрий Лаптев\source\repos\Week4-6Robert\Debug\Week4-6Robert.exe

@@ -1,0 +1,6 @@
+C:\Users\Дмитрий Лаптев\source\repos\Week4-6Robert\Week4-6Robert2\obj\Debug\Week4-6Robert2.csprojAssemblyReference.cache
+C:\Users\Дмитрий Лаптев\source\repos\Week4-6Robert\Week4-6Robert2\bin\Debug\Week4-6Robert2.exe.config
+C:\Users\Дмитрий Лаптев\source\repos\Week4-6Robert\Week4-6Robert2\bin\Debug\Week4-6Robert2.exe
+C:\Users\Дмитрий Лаптев\source\repos\Week4-6Robert\Week4-6Robert2\bin\Debug\Week4-6Robert2.pdb
+C:\Users\Дмитрий Лаптев\source\repos\Week4-6Robert\Week4-6Robert2\obj\Debug\Week4-6Robert2.exe
+C:\Users\Дмитрий Лаптев\source\repos\Week4-6Robert\Week4-6Robert2\obj\Debug\Week4-6Robert2.pdb
